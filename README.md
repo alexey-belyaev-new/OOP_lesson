@@ -22,3 +22,4 @@ return 0;
 My apple is red.
 My banana is yellow.
 My Granny Smith apple is green.
+
